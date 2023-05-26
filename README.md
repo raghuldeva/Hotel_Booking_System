@@ -26,8 +26,6 @@ To get started with the XYZ Hotels API Core Project, follow these steps:
 4. Run the database migrations to create the required tables.
 5. Build and run the project.
 
-For detailed instructions and additional configuration options, please refer to the [Installation Guide](installation.md) in the project repository.
-
 ## API Documentation
 
 The API endpoints and their usage are documented using Swagger. You can access the API documentation by running the project and navigating to the `/swagger` endpoint in your browser.
