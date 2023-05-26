@@ -1,7 +1,3 @@
-# Hotel_Booking_System
-XYZ Hotels API Core Project: Streamline hotel reservations, secure authentication, one-to-many relationships. CRUD, filtering, counts, JWT, exception handling.
-
-
 # XYZ Hotels API Core Project
 
 This project is an API Core implementation for XYZ Hotels, a renowned hotel chain operating globally. It aims to streamline the reservation process and provide an efficient booking experience for customers. The project is developed using a code-first approach and includes features such as CRUD operations, filtering capabilities, room availability counts, JWT token authentication, exception handling, and the repository pattern.
