@@ -30,14 +30,6 @@ To get started with the XYZ Hotels API Core Project, follow these steps:
 
 The API endpoints and their usage are documented using Swagger. You can access the API documentation by running the project and navigating to the `/swagger` endpoint in your browser.
 
-## Contributing
-
-We welcome contributions to the XYZ Hotels API Core Project. If you have suggestions, bug reports, or would like to contribute new features, please refer to the [Contributing Guidelines](contributing.md) for more information.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
-
 ## Acknowledgements
 
 We would like to thank the contributors and open-source community for their valuable contributions to this project.
